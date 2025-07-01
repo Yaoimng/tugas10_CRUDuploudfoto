@@ -1,5 +1,5 @@
 # 🎓 Tugas Pemrograman Web: Aplikasi Pendaftaran Siswa - CRUD + Unggah Foto
-Halo! Ini adalah proyek kecil (baca: tugas individu) untuk mata kuliah Pemrograman Web. Aplikasi ini adalah sistem pendaftaran siswa sederhana yang saya buat untuk latihan dasar-dasar web development, terutama operasi CRUD (Create, Read, Update, Delete) dan fitur unggah foto. Semoga bermanfaat dan bisa jadi gambaran kalau saya sudah latihan fitur-fitur ini!
+Halo! Ini adalah tugas individu untuk mata kuliah Pemrograman Web. Aplikasi ini adalah sistem pendaftaran siswa sederhana yang saya buat untuk latihan dasar-dasar web development, terutama operasi CRUD (Create, Read, Update, Delete) dan fitur unggah foto. Semoga bermanfaat dan bisa jadi gambaran kalau saya sudah latihan fitur-fitur ini!
 
 ---
 
@@ -29,14 +29,14 @@ Berikut adalah fitur-fitur inti yang tersedia dalam aplikasi ini:
 
 ### 🖊️ Formulir Pendaftaran
 
-![Formulir Pendaftaran](https://github.com/user-attachments/assets/d0c3764f-cd4e-47f0-89ad-753497cfb84a)
+![Formulir Pendaftaran](https://github.com/user-attachments/assets/73536d81-6209-4da0-93c4-a1305bdc7a96)
 
 
 ---
 
 ### 📋 Data Siswa Terdaftar
 
-![Data Siswa Terdaftar](https://github.com/user-attachments/assets/73536d81-6209-4da0-93c4-a1305bdc7a96)
+![Data Siswa Terdaftar](https://github.com/user-attachments/assets/d0c3764f-cd4e-47f0-89ad-753497cfb84a)
 
 
 ---
